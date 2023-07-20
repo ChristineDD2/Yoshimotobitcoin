@@ -9,3 +9,6 @@
   font: bold;
   align: center;
 }
+#AA {
+  color: firebrick;
+  border-left: solid, 10px, red;
