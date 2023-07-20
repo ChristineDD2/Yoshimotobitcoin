@@ -2,25 +2,30 @@
   text-size: 20px, solid;
   color: pink;
   align: center;
-}
+  }
 #B {
   text-size: 20px, solid;
   color: pink;
   font: bold;
   align: center;
-}
+  }
 #AA {
   color: firebrick;
   border-left: solid, 10px, red;
   background: green;
-}
+  }
 #F {
   border: solid, 11px, white;
   width: 1920px;
   height: 420px;
-}
+  }
 #I {
   border: solid, 11px, white;
   width: 1920px;
   height: 420px;
+  }
+#G {
+  text-size: 25px;
+  color: neon-blue;
+  align: center;
 }
