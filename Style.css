@@ -1,10 +1,10 @@
 #A {
-  font-size: 20px, solid;
+  text-size: 20px, solid;
   color: pink;
   align: center;
 }
 #B {
-  font-size: 20px, solid;
+  text-size: 20px, solid;
   color: pink;
   font: bold;
   align: center;
@@ -15,10 +15,12 @@
   background: green;
 }
 #F {
+  border: solid, 11px, white;
   width: 1920px;
   height: 420px;
 }
 #I {
+  border: solid, 11px, white;
   width: 1920px;
   height: 420px;
 }
