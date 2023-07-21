@@ -1,37 +1,37 @@
 #A {
-  font-size: 33px, solid;
-  color: firebrick;
+  text-size: 33px, solid;
+  color: gold;
   text-align: center;
   }
 #B {
-  font-size: 33px,
-  color: black;
+  text-size: 33px,
+  color: gold;
   font: bold;
   text-align: center;
   }
 #AA {
-  color: gold;
-  border-style: solid;
+  color: white;
+  border-text-style: solid;
   background: black;
   }
 #F {
-  border-image: solid;
+  border-image-style: solid;
   width: 900px;
   height: 384px;
   }
 #I {
-  border-style: solid, 11px, white;
+  border-text-style: solid, 11px, white;
   width: 900px;
   height: 384px;
   }
 #G {
-  font-size: 25px;
+  text-size: 25px;
   color: black;
   text-align: center;
 }
 #H {
   text-align: left;
-  text-size: 10px;
+  size: 10px;
 }
 #II {
   text-align: center;
@@ -41,21 +41,21 @@
 #III {
   text-align: left;
   text-size: 15px;
-  border-style: solid, white, 10px;
+  border-text-style: solid, white, 10px;
 }
 #JJ {
   text-size: 33px;
   text-align: right;
-  color: black;
+  color: gold;
 }
 #JJJ {
   text-align: center;
   text-size: 33px;
-  color: black;
-  border-text: solid, 10px, black;
+  color: gold;
+  border-text-style: solid, 10px, black;
 }
 #JJJJ {
   text-align: center;
   text-size: 33px;
   color: black;
-  border-text: solid, 10px, black;
+  border-text-style: solid;
