@@ -11,7 +11,7 @@
   }
 #AA {
   color: white;
-  border-text-style: solid;
+  border-text-style: solid, 11px;
   background: black;
   }
 #F {
@@ -46,16 +46,16 @@
 #JJ {
   text-size: 33px;
   text-align: right;
-  color: gold;
+  color: red;
 }
 #JJJ {
   text-align: center;
   text-size: 33px;
-  color: gold;
+  color: white;
   border-text-style: solid, 10px, black;
 }
 #JJJJ {
   text-align: center;
   text-size: 33px;
-  color: black;
+  color: red;
   border-text-style: solid;
