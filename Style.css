@@ -15,12 +15,12 @@
   background: grey;
   }
 #F {
-  border: solid, 11px, white;
+  border-image: solid, 11px, white;
   width: 900px;
   height: 384px;
   }
 #I {
-  border: solid, 11px, white;
+  border-image: solid, 11px, white;
   width: 900px;
   height: 384px;
   }
