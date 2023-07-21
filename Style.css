@@ -10,17 +10,17 @@
   text-align: center;
   }
 #AA {
-  color: grey;
-  border-text: solid, 11px;
+  color: white;
+  border-style: solid;
   background: black;
   }
 #F {
-  border-image-style: solid;
+  border-style: solid;
   width: 900px;
   height: 384px;
   }
 #I {
-  border-text: solid
+  border-style: solid;
   width: 900px;
   height: 384px;
   color: red;
@@ -45,7 +45,8 @@
 #III {
   text-align: left;
   text-size: 15px;
-  border-text-style: solid, white, 10px;
+  border-style: solid;
+  color: white;
 }
 #JJ {
   text-size: 33px;
