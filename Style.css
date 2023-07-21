@@ -1,18 +1,18 @@
 #A {
   text-size: 20px, solid;
-  color: pink;
-  align: center;
+  color: black;
+  alignment: center;
   }
 #B {
-  text-size: 20px, solid;
-  color: pink;
+  text-size:0 20px,
+  color: black;
   font: bold;
-  align: center;
+  alignment: center;
   }
 #AA {
   color: firebrick;
   border-left: solid, 10px, red;
-  background: green;
+  background: grey;
   }
 #F {
   border: solid, 11px, white;
@@ -26,6 +26,10 @@
   }
 #G {
   text-size: 25px;
-  color: neon-blue;
-  align: center;
+  color: black;
+  alignment: center;
+}
+#H {
+  alignment: left;
+  text-size: 10px;
 }
