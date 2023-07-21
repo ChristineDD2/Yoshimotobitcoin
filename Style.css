@@ -16,13 +16,13 @@
   }
 #F {
   border: solid, 11px, white;
-  width: 1920px;
-  height: 420px;
+  width: 720px;
+  height: 384px;
   }
 #I {
-  border: 11px, white;
-  width: 1920px;
-  height: 420px;
+  border: solid, 11px, white;
+  width: 720px;
+  height: 384px;
   }
 #G {
   text-size: 25px;
