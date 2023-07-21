@@ -1,13 +1,13 @@
 #A {
   text-size: 20px, solid;
   color: black;
-  alignment: center;
+  text-align: center;
   }
 #B {
   text-size:0 20px,
   color: black;
   font: bold;
-  alignment: center;
+  text-align: center;
   }
 #AA {
   color: firebrick;
@@ -27,9 +27,9 @@
 #G {
   text-size: 25px;
   color: black;
-  alignment: center;
+  text-align: center;
 }
 #H {
-  alignment: left;
+  text-align: left;
   text-size: 10px;
 }
