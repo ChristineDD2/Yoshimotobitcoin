@@ -5,12 +5,12 @@
   }
 #B {
   text-size: 33px,
-  color: gold;
+  color: white;
   font: bold;
   text-align: center;
   }
 #AA {
-  color: white;
+  color: gold;
   border-text-style: solid, 11px;
   background: black;
   }
@@ -24,6 +24,9 @@
   width: 900px;
   height: 384px;
   }
+#E {
+  color: white;
+  text-size: 33px;
 #G {
   text-size: 25px;
   color: black;
