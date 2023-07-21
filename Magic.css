@@ -1,9 +1,13 @@
 #A {
   color: firebrick;
-  border-body: solid, white, 10px;
+  border-body: solid;
   background: yellow;
 }
 #B {
-  border-text: solid, white, 5px;
+  border-text: solid;
   text-align: center;
+}
+#C {
+  text-size: 11px;
+  color: gold;
 }
