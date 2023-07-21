@@ -1,10 +1,10 @@
 #A {
-  text-size: 20px, solid;
+  font-size: 20px, solid;
   color: black;
   text-align: center;
   }
 #B {
-  text-size:0 20px,
+  font-size: 20px,
   color: black;
   font: bold;
   text-align: center;
@@ -25,7 +25,7 @@
   height: 384px;
   }
 #G {
-  text-size: 25px;
+  font-size: 25px;
   color: black;
   text-align: center;
 }
