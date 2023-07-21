@@ -11,7 +11,7 @@
   }
 #AA {
   color: firebrick;
-  border-left: solid, 10px, red;
+  border-style: solid, 10px, red;
   background: grey;
   }
 #F {
@@ -20,7 +20,7 @@
   height: 384px;
   }
 #I {
-  border-image: solid, 11px, white;
+  border-style: solid, 11px, white;
   width: 900px;
   height: 384px;
   }
@@ -41,5 +41,5 @@
 #III {
   text-align: left;
   text-size: 15px;
-  border-text: solid, white, 10px;
+  border-style: solid, white, 10px;
 }
