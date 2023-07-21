@@ -33,3 +33,13 @@
   text-align: left;
   text-size: 10px;
 }
+#II {
+  text-align: center;
+  color: gold;
+  text-size: 15px;
+}
+#III {
+  text-align: left;
+  text-size: 15px;
+  border-text: solid, white, 10px;
+}
