@@ -3,6 +3,10 @@
   color: red;
   text-align: center;
   }
+#AC {
+  border-style: solid, 11px;
+  color: red;
+
 #B {
   text-size: 33px,
   color: white;
@@ -11,16 +15,16 @@
   }
 #AA {
   color: white;
-  border-style: solid;
+  border-style: solid, 10px;
   background: black;
   }
 #F {
-  border-style: solid;
+  border-style: solid, 10px;
   width: 900px;
   height: 384px;
   }
 #I {
-  border-style: solid;
+  border-style: solid, 10px;
   width: 900px;
   height: 384px;
   color: red;
@@ -45,7 +49,7 @@
 #III {
   text-align: left;
   text-size: 15px;
-  border-style: solid;
+  border-style: solid, 10px;
   color: white;
 }
 #JJ {
@@ -64,3 +68,4 @@
   text-size: 33px;
   color: red;
   border-text: solid;
+}
