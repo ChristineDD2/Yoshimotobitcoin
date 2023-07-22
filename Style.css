@@ -96,3 +96,10 @@
   border-color: white;
   border-size: 10px;
   }
+#Z {
+  align-text: center;
+  color: red;
+  border-style: solid;
+  border-color: white;
+  border-size: 11px;
+}
