@@ -7,6 +7,7 @@
   border-style: solid;
   color: red;
   border-color: red;
+  border-size: 10px;
 
 #B {
   text-size: 33px,
@@ -20,21 +21,25 @@
   border-color: red;
   }
 #F {
-  border-style: solid, 10px;
+  border-style: solid;
   width: 900px;
   height: 384px;
   border-color: red;
+  border-size: 10px;
   }
 #I {
   border-style: solid;
   width: 900px;
   height: 384px;
-  color: red;
   border-color: white;
+  border-size: 10px;
   }
 #E {
   color: red;
   text-size: 33px;
+  border-style: solid;
+  border-color: red;
+  
 #G {
   text-size: 25px;
   text-align: center;
@@ -68,6 +73,7 @@
   color: white;
   border-style: solid;
   border-color: red;
+  border-size: 10px;
 }
 #JJJJ {
   text-align: center;
@@ -75,4 +81,5 @@
   color: red;
   border-style: solid;
   border-color: white;
+  border-size: 10px;
 }
