@@ -17,9 +17,12 @@
 }
 
 #AA {
-  border-style: solid, 10px;
+  border-style: solid;
+  border-color: white;
+  border-size: 10px;
   background: black;
   background-style: shadow;
+  color: red;
 }
 #F {
   border-style: solid;
