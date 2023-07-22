@@ -2,20 +2,19 @@
   text-size: 33px, solid;
   color: red;
   text-align: center;
-}
+  }
 #AC {
   border-style: solid;
   color: red;
   border-color: red;
   border-size: 10px;
-}
+  }
 #B {
   text-size: 33px,
   color: red;
   font: bold;
   text-align: center;
-}
-
+  }
 #AA {
   border-style: solid;
   border-color: white;
@@ -23,54 +22,53 @@
   background: black;
   background-style: shadow;
   color: red;
-}
+  }
 #F {
   border-style: solid;
   width: 900px;
   height: 384px;
   border-color: red;
   border-size: 10px;
-}
+  }
 #I {
   border-style: solid;
   width: 900px;
   height: 384px;
   border-color: white;
   border-size: 10px;
-}
+  }
 #E {
   color: red;
   text-size: 33px;
   border-style: solid;
   border-color: red;
-}
+  }
 #G {
   text-size: 25px;
   text-align: center;
-}
+  }
 #H {
   text-align: left;
   size: 10px;
   color: red;
-
-}
+  }
 #II {
   text-align: center;
   color: white;
   text-size: 33px;
-}
+  }
 #III {
   text-align: left;
   text-size: 15px;
   border-style: solid;
   color: white;
   border-color: white;
-}
+  }
 #JJ {
   text-size: 33px;
   text-align: right;
   color: red;
-}
+   }
 #JJJ {
   text-align: center;
   text-size: 33px;
@@ -78,7 +76,7 @@
   border-style: solid;
   border-color: red;
   border-size: 10px;
-}
+  }
 #JJJJ {
   text-align: center;
   text-size: 33px;
@@ -86,4 +84,4 @@
   border-style: solid;
   border-color: white;
   border-size: 10px;
-}
+  }
