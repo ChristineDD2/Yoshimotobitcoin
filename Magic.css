@@ -1,6 +1,8 @@
 #A {
   color: firebrick;
-  border-style: solid, white, 10px;
+  border-style: solid;
+  border-color: white;
+  border-size: 20px;
   background: red;
 }
 #B {
@@ -10,5 +12,6 @@
 }
 #C {
   text-size: 11px;
-  color: white;
+  color: black;
+  align-text: center;
 }
