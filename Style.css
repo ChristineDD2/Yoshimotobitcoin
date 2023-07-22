@@ -14,7 +14,6 @@
   text-align: center;
   }
 #AA {
-  color: white;
   border-style: solid, 10px;
   background: black;
   }
@@ -22,6 +21,7 @@
   border-style: solid, 10px;
   width: 900px;
   height: 384px;
+  color: white;
   }
 #I {
   border-style: solid, 10px;
@@ -34,12 +34,14 @@
   text-size: 33px;
 #G {
   text-size: 25px;
-  color: black;
+  color: white;
   text-align: center;
 }
 #H {
   text-align: left;
   size: 10px;
+  color: red;
+
 }
 #II {
   text-align: center;
