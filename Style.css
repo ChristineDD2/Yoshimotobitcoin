@@ -4,8 +4,9 @@
   text-align: center;
   }
 #AC {
-  border-text-style: solid;
+  border-style: solid;
   color: red;
+  border-color: red;
 
 #B {
   text-size: 33px,
@@ -14,20 +15,23 @@
   text-align: center;
   }
 #AA {
-  border-text-style: solid, 10px;
+  border-style: solid, 10px;
   background: black;
   color: red;
+  border-color: red;
   }
 #F {
-  border-image-style: solid, 10px;
+  border-style: solid, 10px;
   width: 900px;
   height: 384px;
+  border-color: red;
   }
 #I {
-  border-image-style: solid;
+  border-style: solid;
   width: 900px;
   height: 384px;
   color: red;
+  border-color: white;
   }
 #E {
   color: red;
@@ -52,6 +56,7 @@
   text-size: 15px;
   border-style: solid;
   color: white;
+  border-color: white;
 }
 #JJ {
   text-size: 33px;
@@ -62,11 +67,13 @@
   text-align: center;
   text-size: 33px;
   color: white;
-  border-text-style: solid;
+  border-style: solid;
+  border-color: red;
 }
 #JJJJ {
   text-align: center;
   text-size: 33px;
   color: red;
-  border-text-style: solid;
+  border-style: solid;
+  border-color: white;
 }
