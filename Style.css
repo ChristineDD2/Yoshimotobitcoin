@@ -2,23 +2,25 @@
   text-size: 33px, solid;
   color: red;
   text-align: center;
-  }
+}
 #AC {
   border-style: solid;
   color: red;
   border-color: red;
   border-size: 10px;
-
+}
 #B {
   text-size: 33px,
   color: red;
   font: bold;
   text-align: center;
   }
+
 #AA {
   border-style: solid, 10px;
-  background-color: black;
-  border-color: red;
+  background: black;
+  background-style: shadow;
+
   }
 #F {
   border-style: solid;
