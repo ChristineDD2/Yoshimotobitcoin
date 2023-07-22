@@ -3,6 +3,16 @@
   color: white;
   text-align: center;
   }
+#YYZ {
+  color: red;
+  border-style: solid;
+  border-color: red;
+}
+#YYZZ {
+  color: white;
+  border-style: solid;
+  border-color: white;
+}
 #EEEF {
   color: white;
   text-align: center;
