@@ -8,6 +8,14 @@
   text-align: center;
   text-size: 50px;
 }
+#BBC {
+  color: red;
+  text-align: center;
+}
+#BCC {
+  color: white;
+  text-align: right;
+}
 #D {
   text-size: 45px;
   color: white;
