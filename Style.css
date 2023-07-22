@@ -98,7 +98,8 @@
   }
 #Z {
   align-text: center;
-  color: red;
+  color: white;
+  text-size: 10px;
   border-style: solid;
   border-color: white;
   border-size: 11px;
