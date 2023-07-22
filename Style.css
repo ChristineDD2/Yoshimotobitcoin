@@ -14,28 +14,27 @@
   color: red;
   font: bold;
   text-align: center;
-  }
+}
 
 #AA {
   border-style: solid, 10px;
   background: black;
   background-style: shadow;
-
-  }
+}
 #F {
   border-style: solid;
   width: 900px;
   height: 384px;
   border-color: red;
   border-size: 10px;
-  }
+}
 #I {
   border-style: solid;
   width: 900px;
   height: 384px;
   border-color: white;
   border-size: 10px;
-  }
+}
 #E {
   color: red;
   text-size: 33px;
