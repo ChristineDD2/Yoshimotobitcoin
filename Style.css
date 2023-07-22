@@ -53,6 +53,11 @@
   color: red;
   text-align: center;
 }
+#DDZ {
+  text-size: 45px;
+  color: green;
+  text-align: center;
+}
 #D {
   text-size: 45px;
   color: white;
@@ -65,7 +70,7 @@
 }
 #DDD {
   text-size: 45px;
-  color: white;
+  color: green;
   text-align: center;
 }
 #DDDD {
