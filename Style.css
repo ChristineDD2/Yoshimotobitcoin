@@ -28,12 +28,12 @@
   text-align: center;
 }
 #FFF {
-  border-width: 10px;
+  border-width: 20px;
   border-color: white;
   border-style: solid;
 }
 #FFFF {
-  border-width: 15px;
+  border-width: 20px;
   border-color: red;
   border-style: solid;
 }
@@ -57,7 +57,7 @@
 #VV {
   border-style: solid;
   border-color: red;
-  border-width: 10px;
+  border-width: 20px;
   border-right-align: 35px;
 }
 #CCB {
@@ -127,7 +127,7 @@
 #JJ {
   color: white;
   border-style: solid;
-  border-size: 10px;
+  border-width: 20px;
   border-color: white;
  }
 #B {
@@ -139,7 +139,7 @@
 #AA {
   border-style: solid;
   border-color: white;
-  border-size: 10px;
+  border-size: 20px;
   background: black;
   background-style: shadow;
   color: red;
@@ -156,14 +156,15 @@
   width: 900px;
   height: 384px;
   border-color: white;
-  border-size: 10px;
+  border-width: 20px;
   }
 #E {
   color: white;
   text-size: 33px;
   border-style: solid;
   border-color: red;
-  }
+  border-width: 20px;
+}
 #G {
   text-size: 25px;
   text-align: center;
@@ -184,6 +185,7 @@
   border-style: solid;
   color: green;
   border-color: white;
+  border-width: 20px;
   }
 #JJ {
   text-size: 33px;
@@ -196,7 +198,7 @@
   color: white;
   border-style: solid;
   border-color: red;
-  border-size: 10px;
+  border-width: 20px;
   }
 #JJJJ {
   text-align: center;
@@ -204,7 +206,7 @@
   color: red;
   border-style: solid;
   border-color: white;
-  border-size: 10px;
+  border-width: 20px;
   }
 #Z {
   align-text: center;
@@ -212,5 +214,5 @@
   text-size: 10px;
   border-style: solid;
   border-color: white;
-  border-size: 11px;
+  border-width: 20px;
 }
