@@ -3,6 +3,11 @@
   color: white;
   text-align: center;
   }
+#AAZ {
+  border-width: 20px;
+  border-style: solid;
+  border-color: green;
+}
 #CCC {
   text-align: center;
   color: red;
