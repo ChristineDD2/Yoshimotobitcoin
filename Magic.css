@@ -5,6 +5,11 @@
   border-size: 20px;
   background: red;
 }
+#EF {
+  border-style: solid;
+  border-color: grey;
+  border-width: 20px;
+}
 #B {
   border-text: solid;
   text-align: center;
